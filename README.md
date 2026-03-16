@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 Academic Projects</h2>
 
-<b>1️⃣ SmartWell – Health Detection Web Application</b>
+<b>1️⃣ <a href="https://github.com/bei2901/SmartWell" target="_blank">SmartWell – Health Detection Web Application</a></b>
 <ul>
 <li>Web system that helps users analyse health information using AI-assisted tools.</li>
 <li>Features include:</li>
@@ -17,10 +17,10 @@
 <li>Product Health Classification</li>
 <li>BMI Calculator</li>
 </ul>
-<li>Built using HTML, CSS, JavaScript, and AI model integration.</li>
+<li>Built using PHP (Initially HTML), CSS, JavaScript, and AI model integration.</li>
 </ul>
 
-<b>2️⃣ EatWise – AI Food Health Classification System</b>
+<b>2️⃣ <a href="https://github.com/bei2901/EatWise" target="_blank">EatWise – AI Food Health Classification System</a></b>
 <ul>
 <li>Web application that analyses food images and evaluates whether the food is healthy.</li>
 <li>Uses <b>Roboflow</b> to detect and classify food from uploaded images.</li>
@@ -28,7 +28,7 @@
 <li>Demonstrates AI model integration, API communication, and modular system design.</li>
 </ul>
 
-<b>3️⃣ BrewMaster – Vending Machine UI Prototype</b>
+<b>3️⃣ <a href="https://github.com/bei2901/BrewMaster" target="_blank">BrewMaster – Vending Machine UI Prototype</a></b>
 <ul>
 <li>Java-based prototype of a beverage vending machine interface.</li>
 <li>Designed an interactive user interface to simulate drink selection and vending workflow.</li>
@@ -36,7 +36,7 @@
 <li>Payment functionality is simulated as this project focuses on UI design and system logic.</li>
 </ul>
 
-<b>4️⃣ Cake Inventory Management System</b>
+<b>4️⃣ <a href="https://github.com/bei2901/CremeHut" target="_blank">CremeHut – Cake Inventory Management System</a></b>
 <ul>
 <li>Inventory system for managing products, stock quantity, categories, and product details.</li>
 <li>Designed to track stock status and product information.</li>
